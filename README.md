@@ -12,6 +12,7 @@
 # Pushing changes to GitHub
 * git add .
 * git commit -m "update"
+* git push origin devBranch
   
 # Creat a new branch and do the merge
  * In your Github fork, you need to keep your master branch clean, by clean I mean without any changes, like that you can create at any time a branch from your master. Each time that you want to commit a bug or a feature, you need to create a branch for it, which will be a copy of your master branch.
